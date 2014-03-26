@@ -1,7 +1,7 @@
 eternitune
 ==========
 
-Generate your own unique musical eternitune based on your Facebook activity.
+Generate your own unique musical eternitune based on your Facebook activity.  
 See live demo [here] (https://eternitune.com)
 
 Credits
